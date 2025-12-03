@@ -22,7 +22,7 @@ $ pip install -r requirement.txt
 ### ImageNet-1K
 - Add `ImageNet-1k` dataset and `ILSVRC2012_devkit_t12.tar` file under `data` folder
 ```
-CNN
+ViT
 ├── data
 │   └── imagenet1k
 │       ├── train
