@@ -10,7 +10,7 @@ The unofficial Pytorch implementation of ViT
 ```
 $ git clone https://github.com/jihlim/ViT.git
 $ cd ViT
-$ pip install -r requirement.txt
+$ pip install -r requirements.txt
 ```
 
 ## Models
